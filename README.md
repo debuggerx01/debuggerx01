@@ -15,15 +15,3 @@ Here are some ideas to get you started:
 
 ![iptodays's github stats](https://github-readme-stats.vercel.app/api?username=debuggerx01&show_icons=true)
 
-<script>
-const isDark = () => document.querySelector('html').getAttribute('data-color-mode') === 'dark';
-console.info(isDark());
-(
-  new MutationObserver(() => {
-    console.info(isDark());
-  })
-).observe(
-  document.querySelector('html'),
-  { attributes: true },
-);
-</script>
