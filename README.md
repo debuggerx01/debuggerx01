@@ -14,4 +14,4 @@ Here are some ideas to get you started:
 -->
 
 ![iptodays's github stats](https://github-readme-stats.vercel.app/api?username=debuggerx01&show_icons=true#gh-light-mode-only)
-![iptodays's github stats](https://github-readme-stats.vercel.app/api?username=debuggerx01&show_icons=true&theme=radical#gh-dark-mode-only)
+![iptodays's github stats](https://github-readme-stats.vercel.app/api?username=debuggerx01&show_icons=true&theme=tokyonight#gh-dark-mode-only)
