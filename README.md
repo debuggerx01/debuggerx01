@@ -13,5 +13,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![iptodays's github stats](https://github-readme-stats.vercel.app/api?username=debuggerx01&show_icons=true)
-
+![iptodays's github stats](https://github-readme-stats.vercel.app/api#gh-light-mode-only?username=debuggerx01&show_icons=true)
+![iptodays's github stats](https://github-readme-stats.vercel.app/api#gh-dark-mode-only?username=debuggerx01&show_icons=true&theme=radical)
