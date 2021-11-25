@@ -13,4 +13,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![iptodays's github stats](https://github-readme-stats.vercel.app/api?username=debuggerx01&show_icons=true#gh-light-mode-only)
+![iptodays's github stats](https://github-readme-stats-jingbh.vercel.app/api?username=debuggerx01&show_icons=true&count_private=true&dark_theme=blue-green)
