@@ -14,10 +14,10 @@ Here are some ideas to get you started:
 -->
 
 <a href="https://github.com/debuggerx01#gh-light-mode-only">
-  <img src="https://github-readme-stats.vercel.app/api?username=debuggerx01&show_icons=true&count_private=true&include_all_commits=true" alt="My GitHub Stats" />
+  <img src="./profile/stats_light.svg" alt="My GitHub Stats" />
 </a>
 
 <a href="https://github.com/debuggerx01#gh-dark-mode-only">
-  <img src="https://github-readme-stats.vercel.app/api?username=debuggerx01&show_icons=true&count_private=true&include_all_commits=true&theme=blue-green" alt="My GitHub Stats" />
+  <img src="./profile/stats_dark.svg" alt="My GitHub Stats" />
 </a>
 
